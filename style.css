@@ -1,0 +1,33 @@
+.title2{
+    /*background-color: aqua; */
+    color: white; 
+    text-align: center;    
+}
+
+html{
+    background-color: aquamarine;
+    font-family: 'Urbanist' , sans-serif;
+    background-image: url('frutiger.png');
+    text-align: center;
+}
+
+.text{
+    text-align: center;
+}
+
+.text2{
+    text-align: center;
+}
+
+.animated-gif{
+    pointer-events: none;
+    width: 100px;
+}
+
+.gif-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
