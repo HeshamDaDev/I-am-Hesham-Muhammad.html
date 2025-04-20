@@ -1,4 +1,4 @@
-.title2{
+.title{
     /*background-color: aqua; */
     color: white; 
     text-align: center;    
@@ -9,7 +9,12 @@ html{
     font-family: 'Urbanist' , sans-serif;
     background-image: url('frutiger.png');
     text-align: center;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: white;
 }
+
 
 .text{
     text-align: center;
