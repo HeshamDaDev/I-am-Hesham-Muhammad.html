@@ -36,3 +36,18 @@ html{
     gap: 10px;
     flex-wrap: wrap;
 }
+
+.link-container{
+    display: flex;
+      justify-content: space-between;
+      align-items: center;
+}
+
+.link-left{
+    text-align: left;
+}
+
+.link-center{
+    text-align: center;
+    flex: 1;
+}
