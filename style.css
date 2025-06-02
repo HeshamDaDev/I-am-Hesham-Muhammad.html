@@ -84,3 +84,13 @@ html {
     max-width: 800px; 
     margin: 50px auto;
 }
+.link-1{
+    text-align: left;
+    padding: 40px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+    background-color: rgba(11, 121, 211, 0.5);
+    font-family: 'Urbanist', sans-serif;
+}
